@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/AbdulRaqeebGit">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=50&lines=%3Ch1%3EHello%2C+World!+%F0%9F%91%8B%3C%2Fh1%3E;I+turn+ideas+into+clean%2C+responsive+web+experiences;Pixel-perfect+UI+%2B+smooth+interactions+%E2%9C%A8;Building+today.+Mastering+tomorrow.+%F0%9F%9A%80" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=50&lines=Hello%2C+World!+%F0%9F%91%8B;I+turn+ideas+into+clean%2C+responsive+web+experiences;Pixel-perfect+UI+%2B+smooth+interactions+%E2%9C%A8;Building+today.+Mastering+tomorrow.+%F0%9F%9A%80" alt="Typing animation" />
   </a>
 </p>
 
@@ -101,9 +101,7 @@ const abdulRaqeeb = {
 <!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 ## 🚀 Featured Projects
 
-<!--
-  👉 Replace YOUR_REPO_1 / YOUR_REPO_2 / ... with your real repository names.
--->
+<!-- 👉 Replace YOUR_REPO_1 ... YOUR_REPO_4 with your real repository names. -->
 
 <p align="center">
   <a href="https://github.com/AbdulRaqeebGit/YOUR_REPO_1">
@@ -178,7 +176,7 @@ flowchart LR
   <img src="https://github-profile-trophy.vercel.app/?username=AbdulRaqeebGit&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
 </p>
 
-<!-- 🐍 Snake animation: works only after you add the snake.yml workflow (see instructions). -->
+<!-- 🐍 Snake: works only after you add the snake.yml workflow and run it once. -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulRaqeebGit/AbdulRaqeebGit/output/github-contribution-grid-snake-dark.svg" />
