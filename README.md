@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raqeebkumhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raqeebkumhar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdul-raqeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-raqeeb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdul-raqeeb-5908a931a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-raqeeb-5908a931a" height="30" width="40" /></a>
 <a href="https://fb.com/abdul.raqeeb.kumbhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul.raqeeb.kumbhar" height="30" width="40" /></a>
 <a href="https://instagram.com/a_raqeebofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_raqeebofficial" height="30" width="40" /></a>
 </p>
