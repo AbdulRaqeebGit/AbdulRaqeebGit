@@ -1,220 +1,230 @@
-<!-- ═══════════════════════ HERO ═══════════════════════ -->
+<!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,6,20&height=260&section=header&text=Abdul%20Raqeeb&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Creative%20Thinker%20%E2%80%A2%20Lifelong%20Learner&descAlignY=60&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:09090B,50:312E81,100:8B5CF6&text=Abdul%20Raqeeb&fontSize=68&fontColor=FFFFFF&fontAlignY=40&desc=FRONTEND%20DEVELOPER%20%7C%20CREATIVE%20THINKER&descSize=16&descAlignY=61&animation=fadeIn" width="100%" alt="Abdul Raqeeb animated purple header"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/AbdulRaqeebGit">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=50&lines=Hello%2C+World!+%F0%9F%91%8B;I+turn+ideas+into+clean%2C+responsive+web+experiences;Pixel-perfect+UI+%2B+smooth+interactions+%E2%9C%A8;Building+today.+Mastering+tomorrow.+%F0%9F%9A%80" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&height=55&lines=Hey%2C+welcome+to+my+GitHub!+%F0%9F%91%8B;Building+clean+and+responsive+websites+%E2%9C%A8;Turning+creative+ideas+into+code+%F0%9F%92%BB;Learn.+Build.+Improve.+Repeat.+%F0%9F%9A%80" alt="Animated introduction"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulRaqeebGit&label=Profile%20Views&color=a78bfa&style=for-the-badge&labelColor=0D1117" alt="Views" />
-  <img src="https://img.shields.io/github/followers/AbdulRaqeebGit?label=Followers&style=for-the-badge&color=a78bfa&labelColor=0D1117&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/AbdulRaqeebGit?label=Stars&style=for-the-badge&color=a78bfa&labelColor=0D1117&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-a78bfa?style=for-the-badge&labelColor=0D1117" alt="Status" />
+  <a href="https://github.com/AbdulRaqeebGit?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+  </a>
+  <a href="https://linkedin.com/in/abdul-raqeeb-5908a931a">
+    <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-18181B?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="Connect on LinkedIn"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="#-about-me">About</a> &nbsp;•&nbsp;
-  <a href="#-tech-stack">Stack</a> &nbsp;•&nbsp;
-  <a href="#-featured-projects">Projects</a> &nbsp;•&nbsp;
-  <a href="#-my-journey">Journey</a> &nbsp;•&nbsp;
-  <a href="#-github-analytics">Stats</a> &nbsp;•&nbsp;
-  <a href="#-lets-connect">Connect</a>
+  <img src="https://komarev.com/ghpvc/?username=AbdulRaqeebGit&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/AbdulRaqeebGit?style=flat-square&color=8B5CF6&label=FOLLOWERS" alt="GitHub followers"/>
 </p>
 
-<br/>
+---
 
-<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
-## 🧑‍💻 About Me
+<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<h2 align="center">✦ &nbsp; ABOUT ME &nbsp; ✦</h2>
 
-I'm a **frontend developer** who loves the moment an idea on paper becomes something people can *click, scroll and feel*.
-
-- 🎨 Obsessed with **clean UI** & modern design
-- 📱 Every layout I build is **fully responsive**
-- ⚙️ Leveling up into the **MERN stack**
-- 🧪 I learn by **building** — projects over tutorials
-- 🤝 Always open to **collaboration** & fresh ideas
-
-> [!TIP]
-> Got an idea or a project? Let's build something awesome together.
-
-</td>
-<td width="45%" valign="top">
+<p align="center">
+  <i>Creating meaningful digital experiences, one line of code at a time.</i>
+</p>
 
 ```js
 const abdulRaqeeb = {
+  name: "Abdul Raqeeb",
+  username: "AbdulRaqeebGit",
   role: "Frontend Developer",
   location: "Pakistan 🇵🇰",
-  focus: ["Clean UI", "Responsive", "UX"],
-  learning: ["React", "Node.js", "MongoDB"],
-  building: "Real-world projects",
-  fuel: ["☕ Coffee", "🎧 Music", "💡 Curiosity"],
 
-  motto() {
-    return "Consistency over perfection.";
-  },
+  interests: [
+    "Web Development",
+    "Creative UI Design",
+    "Responsive Websites"
+  ],
+
+  learning: [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "MongoDB"
+  ],
+
+  mindset: "Learn by building",
+  goal: "Turn ideas into real-world projects"
 };
 ```
 
-</td>
-</tr>
-</table>
+- 🎨 I enjoy creating clean, modern user interfaces.
+- 💻 I build responsive and interactive web experiences.
+- 🌱 I am continuously improving my development skills.
+- 🚀 I enjoy experimenting with ideas and building projects.
+- 🤝 Always interested in learning and collaborating.
 
-<br/>
+---
 
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-## ⚡ Tech Stack
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
-<p align="center"><b>🎯 Frontend</b></p>
+<h2 align="center">⚡ &nbsp; TECH STACK</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <b>FRONTEND DEVELOPMENT</b>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind&theme=dark" alt="HTML CSS JavaScript Bootstrap React Tailwind CSS"/>
 </p>
 
-<p align="center"><b>🛠️ Backend & Database</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <b>BACKEND & DATABASE</b>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js Express MongoDB"/>
 </p>
 
-<p align="center"><b>🧰 Tools</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <b>DEVELOPMENT TOOLS</b>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git GitHub VS Code Postman"/>
 </p>
 
-<br/>
+---
 
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
-## 🚀 Featured Projects
+<!-- ═══════════════════ PROJECTS ═══════════════════ -->
 
-<!-- 👉 Replace YOUR_REPO_1 ... YOUR_REPO_4 with your real repository names. -->
+<h2 align="center">🚀 &nbsp; PROJECTS & EXPLORATION</h2>
 
 <p align="center">
-  <a href="https://github.com/AbdulRaqeebGit/YOUR_REPO_1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulRaqeebGit&repo=YOUR_REPO_1&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=E5E7EB" />
-  </a>
-  <a href="https://github.com/AbdulRaqeebGit/YOUR_REPO_2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulRaqeebGit&repo=YOUR_REPO_2&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=E5E7EB" />
-  </a>
+  <img src="https://img.shields.io/badge/BUILDING-Real--World%20Projects-8B5CF6?style=flat-square&labelColor=0D1117" alt="Building real-world projects"/>
+  <img src="https://img.shields.io/badge/FOCUS-Design%20%2B%20Functionality-A78BFA?style=flat-square&labelColor=0D1117" alt="Design and functionality"/>
 </p>
+
 <p align="center">
-  <a href="https://github.com/AbdulRaqeebGit/YOUR_REPO_3">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulRaqeebGit&repo=YOUR_REPO_3&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=E5E7EB" />
-  </a>
-  <a href="https://github.com/AbdulRaqeebGit/YOUR_REPO_4">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulRaqeebGit&repo=YOUR_REPO_4&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=E5E7EB" />
+  Discover my repositories, experiments, and latest work.
+</p>
+
+<p align="center">
+  <a href="https://github.com/AbdulRaqeebGit?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>
   </a>
 </p>
 
-<br/>
+---
 
-<!-- ═══════════════════════ JOURNEY ═══════════════════════ -->
-## 🗺️ My Journey
+<!-- ═══════════════════ JOURNEY ═══════════════════ -->
+
+<h2 align="center">🗺️ &nbsp; MY DEVELOPMENT JOURNEY</h2>
 
 ```mermaid
-flowchart LR
-    A["🧱 HTML & CSS"] --> B["⚡ JavaScript"]
+flowchart TD
+    A["🎨 HTML & CSS"] --> B["⚡ JavaScript"]
     B --> C["⚛️ React"]
-    C --> D["🟢 Node & Express"]
+    C --> D["🟢 Node.js & Express"]
     D --> E["🍃 MongoDB"]
     E --> F["🚀 Full-Stack Projects"]
 
-    style A fill:#1f1b2e,stroke:#A78BFA,color:#fff
-    style B fill:#1f1b2e,stroke:#A78BFA,color:#fff
-    style C fill:#1f1b2e,stroke:#A78BFA,color:#fff
-    style D fill:#1f1b2e,stroke:#A78BFA,color:#fff
-    style E fill:#1f1b2e,stroke:#A78BFA,color:#fff
-    style F fill:#A78BFA,stroke:#fff,color:#0D1117
+    style A fill:#171321,stroke:#A78BFA,color:#FFFFFF
+    style B fill:#171321,stroke:#A78BFA,color:#FFFFFF
+    style C fill:#171321,stroke:#A78BFA,color:#FFFFFF
+    style D fill:#171321,stroke:#A78BFA,color:#FFFFFF
+    style E fill:#171321,stroke:#A78BFA,color:#FFFFFF
+    style F fill:#8B5CF6,stroke:#C4B5FD,color:#FFFFFF
 ```
 
 <details>
-<summary><b>🎯 My 2026 goals (click to expand)</b></summary>
-<br/>
+  <summary><b>🎯 My Development Goals</b></summary>
 
-- [x] Build a strong foundation in HTML, CSS & JavaScript
-- [ ] Master React and component-driven design
-- [ ] Build & ship 5 real-world projects
-- [ ] Learn backend with Node.js, Express & MongoDB
-- [ ] Contribute to open-source
-- [ ] Code consistently, every single day
+  <br/>
+
+  - [x] Build a foundation in HTML and CSS
+  - [x] Start building JavaScript projects
+  - [ ] Improve JavaScript problem-solving
+  - [ ] Build more projects with React
+  - [ ] Develop backend applications
+  - [ ] Create and deploy full-stack projects
 
 </details>
 
-<br/>
+---
 
-<!-- ═══════════════════════ STATS ═══════════════════════ -->
-## 📊 GitHub Analytics
+<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
+
+<h2 align="center">📊 &nbsp; GITHUB ANALYTICS</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulRaqeebGit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=E5E7EB&rank_icon=github&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRaqeebGit&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulRaqeebGit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github" alt="GitHub statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRaqeebGit&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=6" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=AbdulRaqeebGit&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" />
+  <img width="90%" src="https://streak-stats.demolab.com?user=AbdulRaqeebGit&theme=transparent&hide_border=true&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub contribution streak"/>
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRaqeebGit&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&area_color=A78BFA&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRaqeebGit&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CODING%20ACTIVITY" alt="GitHub activity graph"/>
 </p>
+
+---
+
+<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
+
+<h2 align="center">🐍 &nbsp; CONTRIBUTION JOURNEY</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulRaqeebGit&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+  <i>Every contribution is another step forward.</i>
 </p>
 
-<!-- 🐍 Snake: works only after you add the snake.yml workflow and run it once. -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulRaqeebGit/AbdulRaqeebGit/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulRaqeebGit/AbdulRaqeebGit/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/AbdulRaqeebGit/AbdulRaqeebGit/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulRaqeebGit/AbdulRaqeebGit/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulRaqeebGit/AbdulRaqeebGit/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/AbdulRaqeebGit/AbdulRaqeebGit/output/github-contribution-grid-snake.svg" alt="Abdul Raqeeb's GitHub contribution snake" width="100%"/>
   </picture>
 </p>
 
-<br/>
+---
 
-<!-- ═══════════════════════ QUOTE ═══════════════════════ -->
+<!-- ═══════════════════ TROPHIES ═══════════════════ -->
+
+<h2 align="center">🏆 &nbsp; GITHUB ACHIEVEMENTS</h2>
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Consistency%20over%20perfection.%20Progress%20over%20excuses.&author=Abdul%20Raqeeb" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulRaqeebGit&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies"/>
 </p>
 
-<br/>
+---
 
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
-## 🌐 Let's Connect
+<!-- ═══════════════════ CONNECT ═══════════════════ -->
 
-Have an idea, a project, or something interesting to share? My inbox (and DMs) are open.
+<h2 align="center">🌐 &nbsp; LET'S CONNECT</h2>
+
+<p align="center">
+  <i>Have an idea, a project, or something interesting to share?</i>
+  <br/>
+  <i>Let's connect and create something meaningful.</i>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/abdul-raqeeb-5908a931a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/a_raqeebofficial">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/AbdulRaqeebGit">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%E2%9D%A4%EF%B8%8F;Drop+a+%E2%AD%90+if+you+liked+this+profile." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=550&height=35&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Keep+learning.+Keep+building.+%F0%9F%9A%80" alt="Animated closing message"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,6,20&height=140&section=footer" width="100%" />
+  <b>“Consistency over perfection. Progress over excuses.”</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:8B5CF6,50:312E81,100:09090B" width="100%" alt="Purple animated-style footer"/>
 </p>
