@@ -1,10 +1,9 @@
-# Save this file in your profile repo at: .github/workflows/snake.yml
 name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
-  workflow_dispatch:          # allows manual run
+    - cron: "0 */12 * * *"   # har 12 ghante baad
+  workflow_dispatch:          # manually run karne ke liye
   push:
     branches: [main]
 
