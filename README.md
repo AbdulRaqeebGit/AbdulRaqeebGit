@@ -1,21 +1,62 @@
-<h1 align="center">Hi 👋, I'm Abdul Raqeeb</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hey, I'm Abdul Raqeeb
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulraqeebgit&label=Profile%20views&color=0e75b6&style=flat" alt="abdulraqeebgit" /> </p>
+### Frontend Developer | Creative Thinker | Lifelong Learner
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulraqeebgit" alt="abdulraqeebgit" /></a> </p>
+I enjoy turning ideas into clean, responsive, and interactive web experiences.  
+Currently improving my development skills, building projects, and exploring new technologies.
 
-<p align="left"> <a href="https://twitter.com/raqeebkumhar" target="blank"><img src="https://img.shields.io/twitter/follow/raqeebkumhar?logo=twitter&style=for-the-badge" alt="raqeebkumhar" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-raqeeb-5908a931a)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-8B5CF6?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/a_raqeebofficial)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/AbdulRaqeebGit)
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🧑‍💻 About Me
+
+- 💻 Passionate about web development and creative problem-solving
+- 🎨 Interested in clean UI, responsive layouts, and modern design
+- 🌱 Always learning and experimenting with new technologies
+- 🚀 Building projects to turn knowledge into real-world skills
+- 🤝 Open to learning, collaboration, and new ideas
+
+---
+
+## ⚡ Tech Stack
+
 <p align="left">
-<a href="https://twitter.com/raqeebkumhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raqeebkumhar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdul-raqeeb-5908a931a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-raqeeb-5908a931a" height="30" width="40" /></a>
-<a href="https://fb.com/abdul.raqeeb.kumbhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul.raqeeb.kumbhar" height="30" width="40" /></a>
-<a href="https://instagram.com/a_raqeebofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_raqeebofficial" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,nodejs,express,mongodb,git,github,vscode&theme=dark" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulraqeebgit&show_icons=true&locale=en&layout=compact" alt="abdulraqeebgit" /></p>
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulRaqeebGit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=E5E7EB&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRaqeebGit&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://streak-stats.demolab.com?user=AbdulRaqeebGit&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+Have an idea, project, or something interesting to share?  
+Feel free to connect with me.
+
+<p align="left">
+  <a href="https://linkedin.com/in/abdul-raqeeb-5908a931a">LinkedIn</a> •
+  <a href="https://instagram.com/a_raqeebofficial">Instagram</a> •
+  <a href="https://github.com/AbdulRaqeebGit">GitHub</a>
+</p>
+
+<p align="center">
+  <i>“Consistency over perfection. Progress over excuses.”</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=footer" width="100%" />
+</p>
